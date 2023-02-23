@@ -1,0 +1,20 @@
+1. Why did you choose the tools, libraries, and language you used for the coding exercise?
+   I made the program using Java since I have been using it since high school. 
+   I know other languages, but Java is the one I use most of the time
+
+2. What are the advantages and disadvantages of your solution?
+   Advantage:
+   1.  I have created 3 classes for this program.
+       1. Main class is the one to start the program, read input, manage other objects
+       2. PointManager is the class to manage user's points
+       3. PayerData is the class for payer point records
+
+   2.  PointManager is using a TreeMap that keeps all payer's data in order sorted by timestamp. 
+       It takes O(logN) to add new payer data.
+
+   3.  I converted timeStamp from string to long because comparing long types should be faster.
+
+   Disadvantage:
+   1.  C++ might be faster than JAVA since JAVA is running a virtual machine, that causes some overhead
+   
+3. What has been a favorite school/personal project thus far? What about it that challenged you?
