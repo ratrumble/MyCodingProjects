@@ -18,3 +18,10 @@
    1.  C++ might be faster than JAVA since JAVA is running a virtual machine, that causes some overhead
    
 3. What has been a favorite school/personal project thus far? What about it that challenged you?
+   One project that has stood out as my favorite so far is my zombie shooter game. It's a personal 
+   project that I created using JavaFX and mathematics, and I've enjoyed slowly building upon it 
+   over time. This project has provided me with a sandbox to experiment with different zombie behaviors 
+   and bullet mechanics, allowing me to immerse myself in recreating my favorite genre of flash games. 
+   However, I did face a challenge when it came to remembering and organizing the code, which I 
+   overcame by leaving detailed comments and focusing on maintaining organization from the outset 
+   for future projects.
